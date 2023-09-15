@@ -1,0 +1,1 @@
+alert("amenge dob palhassotá çoa.Lokura")
